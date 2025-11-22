@@ -66,8 +66,7 @@ We propose a low-cost, modular, AI-Enabled Track Monitoring System:
 ## Feasibility and Viability
 1) Low-cost prototype → easily achievable with off-the-shelf components.
 2) Scalable design → prototype → real-time high-speed TRC system for Indian Railways.
-3) Technical expertise available through open-source libraries, AI models, and
-  low-cost computing boards (e.g. Nvidia Jetson Nano, Raspberry Pi)
+3) Technical expertise available through open-source libraries, AI models, and low-cost computing boards (e.g. Nvidia Jetson Nano, Raspberry Pi)
 
 ## Impact and Benefits
 ## Impact:
@@ -90,6 +89,7 @@ Indigenous Solution: Reduces dependence on costly foreign technology
 1.Track Monitoring in Indian Railways
 
 – March 2013 INDIAN RAILWAY INSTITUTE OF CIVIL ENGINEERING PUNE 411001
+
 https://iricen.gov.in/iricen/books_jquery/track_monitoring.pdf
 
 2.Introduction of Modern Track Inspection Technology in Indian Railways

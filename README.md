@@ -16,15 +16,10 @@ Despite its importance, many farmers—especially smallholders in resource-limit
 There is an urgent need for a user-friendly, digital platform that empowers farmers to implement, monitor, and sustain robust biosecurity practices on their farms.
 
 The portal must provide end-to-end solutions for farm-level biosecurity management by integrating:
-
 Customizable risk assessment tools based on local epidemiological conditions
-
 Interactive training modules and best-practice guidelines customized for pig and poultry farms
-
 Compliance tracking features aligned with regulatory frameworks to help farmers progress toward disease-free compartment recognition
-
 Real-time alerts and monitoring dashboards for disease outbreaks and potential biosecurity breaches
-
 Multilingual and mobile-first design for accessibility in rural and remote regions
 
 Additionally, the platform should support data collection and analytics for policy development, enable collaboration among farmers, veterinarians, and extension workers, and strengthen long-term biosecurity resilience in the livestock sector.
@@ -93,17 +88,17 @@ Indigenous Solution: Reduces dependence on costly foreign technology
        Energy-efficient system → low carbon footprint.
 ## Research and References
 1.Track Monitoring in Indian Railways
+
 – March 2013 INDIAN RAILWAY INSTITUTE OF CIVIL ENGINEERING PUNE 411001
 https://iricen.gov.in/iricen/books_jquery/track_monitoring.pdf
 
 2.Introduction of Modern Track Inspection Technology in Indian Railways
+
 – Integrated Track Monitoring System (ITMS)
+
 – New TRC Rahul Singh1 , Saroj Kumar Barnwal
 
-```
-https://www.iricen.gov.in/iricen/ipwe_seminar/2017/Nov%202023%20Vol-
-1/Introduction%20of%20Modern%20Track%20Inspection%20Technology.pdf
-```
+https://www.iricen.gov.in/iricen/ipwe_seminar/2017/Nov%202023%20Vol-1/Introduction%20of%20Modern%20Track%20Inspection%20Technology.pdf
 
 3.Condition monitoring of railway tracks using compact size on- board monitoring
 device:

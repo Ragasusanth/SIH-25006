@@ -31,7 +31,7 @@ Additionally, the platform should support data collection and analytics for poli
 
 ### Expected Outcomes
 
-> Enhanced farmer awareness and education about biosecurity
+**.** Enhanced farmer awareness and education about biosecurity
 > Improved farm-level risk management and self-assessment
 > Easy access to customized, practical biosecurity guidelines
 > Digital compliance tracking and record maintenance
@@ -69,9 +69,9 @@ We propose a low-cost, modular, AI-Enabled Track Monitoring System:
 
 
 ## Feasibility and Viability
-> Low-cost prototype → easily achievable with off-the-shelf components.
-> Scalable design → prototype → real-time high-speed TRC system for Indian Railways.
-> Technical expertise available through open-source libraries, AI models, and
+1) Low-cost prototype → easily achievable with off-the-shelf components.
+2) Scalable design → prototype → real-time high-speed TRC system for Indian Railways.
+3) Technical expertise available through open-source libraries, AI models, and
   low-cost computing boards (e.g. Nvidia Jetson Nano, Raspberry Pi)
 
 ## Impact and Benefits
@@ -95,11 +95,13 @@ Indigenous Solution: Reduces dependence on costly foreign technology
 1.Track Monitoring in Indian Railways
 – March 2013 INDIAN RAILWAY INSTITUTE OF CIVIL ENGINEERING PUNE 411001
 https://iricen.gov.in/iricen/books_jquery/track_monitoring.pdf
+
 2.Introduction of Modern Track Inspection Technology in Indian Railways
 – Integrated Track Monitoring System (ITMS)
 – New TRC Rahul Singh1 , Saroj Kumar Barnwal
 https://www.iricen.gov.in/iricen/ipwe_seminar/2017/Nov%202023%20Vol-
 1/Introduction%20of%20Modern%20Track%20Inspection%20Technology.pdf
+
 3. Condition monitoring of railway tracks using compact size on- board monitoring
 device:
 https://ieeexplore.ieee.org/document/7105041

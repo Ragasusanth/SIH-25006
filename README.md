@@ -31,16 +31,16 @@ Additionally, the platform should support data collection and analytics for poli
 
 ### Expected Outcomes
 
-**.** Enhanced farmer awareness and education about biosecurity
-> Improved farm-level risk management and self-assessment
-> Easy access to customized, practical biosecurity guidelines
-> Digital compliance tracking and record maintenance
-> Timely alerts and disease notifications
-> Healthier livestock and increased productivity
-> Empowerment of small and marginal farmers with limited resources
-> Better support for authorities through data-driven disease surveillance
-> Stronger collaboration across the livestock ecosystem
-> Improved national preparedness for zoonotic and transboundary diseases
+1)  Enhanced farmer awareness and education about biosecurity
+2)  Improved farm-level risk management and self-assessment
+3)  Easy access to customized, practical biosecurity guidelines
+4)  Digital compliance tracking and record maintenance
+5)  Timely alerts and disease notifications
+6)  Healthier livestock and increased productivity
+7)  Empowerment of small and marginal farmers with limited resources
+8)  Better support for authorities through data-driven disease surveillance
+9)  Stronger collaboration across the livestock ecosystem
+10) Improved national preparedness for zoonotic and transboundary diseases
 
 ## Problem Creater's Organization
 Ministry of Fisheries, Animal Husbandry & Dairying
@@ -99,9 +99,12 @@ https://iricen.gov.in/iricen/books_jquery/track_monitoring.pdf
 2.Introduction of Modern Track Inspection Technology in Indian Railways
 – Integrated Track Monitoring System (ITMS)
 – New TRC Rahul Singh1 , Saroj Kumar Barnwal
+
+```
 https://www.iricen.gov.in/iricen/ipwe_seminar/2017/Nov%202023%20Vol-
 1/Introduction%20of%20Modern%20Track%20Inspection%20Technology.pdf
+```
 
-3. Condition monitoring of railway tracks using compact size on- board monitoring
+3.Condition monitoring of railway tracks using compact size on- board monitoring
 device:
 https://ieeexplore.ieee.org/document/7105041
